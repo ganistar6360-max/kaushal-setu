@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c1",
+    "item": "Safe isolation and lockout-tagout procedure",
+    "level": "NSQF Level 3",
+    "description": "Ability to safely isolate electrical circuits and follow lockout-tagout procedures before working on equipment."
+  },
+  {
+    "id": "c2",
+    "item": "Wiring a single-phase distribution board",
+    "level": "NSQF Level 3",
+    "description": "Skill in wiring and assembling a single-phase distribution board including MCBs, RCCBs, and bus bars."
+  },
+  {
+    "id": "c3",
+    "item": "Earthing and continuity testing",
+    "level": "NSQF Level 3",
+    "description": "Knowledge and ability to perform earthing installations and continuity testing of circuits."
+  },
+  {
+    "id": "c4",
+    "item": "Reading and interpreting circuit diagrams",
+    "level": "NSQF Level 4",
+    "description": "Ability to read, interpret, and work from electrical circuit diagrams and schematics."
+  },
+  {
+    "id": "c5",
+    "item": "Troubleshooting a faulty switchboard",
+    "level": "NSQF Level 4",
+    "description": "Systematic approach to diagnosing and fixing faults in switchboards and panels."
+  },
+  {
+    "id": "c6",
+    "item": "Use of multimeter and clamp meter",
+    "level": "NSQF Level 3",
+    "description": "Proficiency in using multimeters and clamp meters for voltage, current, resistance, and continuity measurements."
+  },
+  {
+    "id": "c7",
+    "item": "Compliance with electrical safety codes",
+    "level": "NSQF Level 4",
+    "description": "Understanding and adherence to IS 732, IE rules, and National Electrical Code safety standards."
+  }
+]
